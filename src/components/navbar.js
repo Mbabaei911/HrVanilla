@@ -20,7 +20,7 @@ const Navbar = () => {
         {/* nav logo button */}
         <Link href={"/"}>
         <div className="flex items-center justify-between cursor-pointer">
-          <Image alt="logo" src="/images/logo.jfif" width={40} height={40} />
+          <Image alt="logo" src="/images/logo.png" width={40} height={40} />
           <h5 className="pl-2 roboto-black ">VanillaHR</h5>
         </div>
         </Link>

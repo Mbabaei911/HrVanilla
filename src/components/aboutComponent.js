@@ -19,7 +19,7 @@ function AboutComponent() {
         <div className="w-[90%] 2xl:w-[60%] 2xl:p-20 mx-auto space-y-9 bg-blue-50 xl:bg-blue-50   rounded  lg:p-14 xl:w-[75%] lg:flex lg:flex-col lg:justify-center lg:items-center xl:flex-row shadow p-3">
           <div className="  w-72  mx-auto rounded xl:order-last  md:w-96 xl:w-[70%]  2xl:w-[80%]  2xl:-right-24 right-0 2xl:translate-x-32 xl:translate-x-24 shadow-xl">
             <Image
-              src="/images/aboutPageImage.png"
+              src="/images/aboutPageImage.webp"
               height={300}
               width={300}
               alt="about image"
